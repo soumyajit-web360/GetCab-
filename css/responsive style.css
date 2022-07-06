@@ -1,0 +1,167 @@
+@media only screen and (max-width:575px){
+  .banner-title{
+    font-size: 16px;
+  }
+  .banner-title-2{
+    font-size: 35px;
+  }
+  .welcome{
+    margin-top: 20px;
+  }
+  .offer-des{
+    width: 100%;
+    margin: auto;
+  }
+  .car-service-description{
+    width: 100%;
+    margin: auto;
+  }
+  .getcab-service{
+    font-size: 15px;
+  }
+.testimonials-section{
+  padding-bottom: 50px;
+}
+  .testimonials{
+    margin-bottom: 50px;
+  }
+  .testimonials-box{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding-bottom: 60px;
+
+
+  }
+  .testimonial-description{
+    width: 100%;
+    margin: auto;
+    margin-top: 7rem;
+  }
+  .rate-one-trip{
+    color: #000;
+    font-size: 25px;
+  }
+  .getcab-service{
+    font-size: 16px;
+  }
+  .car-item-1{
+  margin-bottom: 15px;
+  }
+  .car-item-2{
+  margin-bottom: 15px;
+  }
+  .car-item-3{
+  margin-bottom: 15px;
+  }
+  .car-item-4{
+  margin-bottom: 15px;
+  }
+  .car-item-1:hover {
+    box-shadow: none;
+
+}
+  .car-item-2:hover {
+    box-shadow: none;
+    margin-bottom: 15px;
+}
+  .car-item-3:hover {
+    box-shadow: none;
+    margin-bottom: 15px;
+}
+  .car-item-4:hover {
+    box-shadow: none;
+    margin-bottom: 15px;
+}
+.city-taxi:hover{
+  box-shadow: none;
+}
+  .footer{
+    height:auto;
+    padding-bottom: 40px;
+  }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+  .offer-des{
+    width: 100%;
+    margin: auto;
+  }
+  .getcab-service{
+    font-size: 15px;
+  }
+  .car-item-1:hover {
+    box-shadow: none;
+
+}
+  .car-item-2:hover {
+    box-shadow: none;
+
+}
+  .car-item-3:hover {
+    box-shadow: none;
+
+}
+  .car-item-4:hover {
+    box-shadow: none;
+
+}
+.city-taxi:hover{
+  box-shadow: none;
+}
+.testimonials-section{
+  width: 100%;
+}
+.testimonials{
+  margin-bottom: 60px;
+}
+
+  .footer{
+    height:auto;
+    padding-bottom: 40px;
+  }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+  .getcab-service{
+    font-size: 15px;
+  }
+  .car-item-1:hover {
+    box-shadow: none;
+
+}
+  .car-item-2:hover {
+    box-shadow: none;
+
+}
+  .car-item-3:hover {
+    box-shadow: none;
+
+}
+  .car-item-4:hover {
+    box-shadow: none;
+
+}
+
+.city-taxi:hover{
+  box-shadow: none;
+
+}
+  .agreement{
+    font-size: 15px;
+  }
+  .footer{
+    height:auto;
+    padding-bottom: 40px;
+  }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+
+  .footer{
+    height:660px;
+    padding-bottom: 40px;
+  }
+}
+/* @media only screen and (min-width:1200px) and (max-width:1400px){
+  .footer{
+    height:600px;
+  }
+} */

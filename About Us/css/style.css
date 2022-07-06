@@ -1,0 +1,285 @@
+/* GetCab Header Part CSS starts here */
+.header{
+  background-color: #000000;
+  padding: 5px;
+}
+.header-container{
+  width: 1170px;
+}
+.fa-home{
+  color: #ddab15;
+  font-size: 15px;
+}
+.home{
+  color: #ddab15;
+  font-size: 11px;
+  margin-left: 5px;
+
+}
+.fa-phone{
+  color: #ddab15;
+  font-size: 15px;
+
+}
+.phone{
+  color: #ddab15;
+  font-size: 11px;
+  text-align: center;
+  margin-left: 5px;
+}
+.fa-envelope-o{
+  color: #ddab15;
+  font-size: 15px;
+}
+.envelope{
+  color: #ddab15;
+  font-size: 11px;
+  margin-left: 5px;
+  text-align: center;
+  margin-left: 5px;
+}
+/* GetCab Header Part CSS ends here */
+
+/* Getcab navigation menu css code starts here */
+.navbar ul li{
+  padding: 0 10px;
+  display: inline;
+}
+.navbar ul li a{
+  color: #000;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Open Sans',
+}
+.navbar ul li a:hover{
+  background-color: #ffc61a;
+  border-radius: 2px;
+  color: #000;
+}
+.glyphicon{
+  background-color: black;
+}
+.logo{
+  width: 70px;
+}
+.navbar-toggler-icon{
+  /* background-color: black; */
+}
+/* Getcab navigation menu css code Ends here */
+
+/* Getcab Banner css code Starts here */
+.banner{
+  height:300px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  overflow: hidden;
+}
+.aboutus{
+  text-align: center;
+  color: #f8fb0a;
+  font-weight: bold;
+  font-size: 13px;
+  margin-top: 100px;
+
+}
+.who-we-are{
+color: #fff;
+text-align: center;
+font-weight: bold;
+
+}
+.aboutus-description1{
+  margin-top: 100px;
+}
+.getcab-about{
+  font-weight: bold;
+  font-size: 30px;
+}
+.para1{
+  font-size: 13px;
+  text-align: justify;
+}
+.car-img{
+  margin-left: 30px;
+}
+.aboutus-description2{
+  margin-top: 100px;
+}
+.sustainability{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.sustainability-part{
+  margin-left: 20px;
+}
+.sustainability-description{
+  font-size: 13px;
+  text-align: justify;
+  margin-left: 30px;
+}
+.rides-and-beyond-section{
+  margin-top: 100px;
+}
+.rides-and-beyond-heading{
+  font-size: 30px;
+  font-weight: bold;
+}
+.rides-and-beyond-description{
+  font-size: 13px;
+}
+.learn-more-btn{
+  background-color: #fdd416;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 25px;
+  margin-left: 30px;
+}
+.rides-and-beyond-img{
+  margin-left: 30px;
+}
+.rides-and-beyond-learn-more-btn{
+  background-color: #fdd416;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 25px;
+
+}
+.car-safty-section{
+  margin-top: 100px;
+}
+.safety-drives{
+  margin-left: 20px;
+}
+.safety-drives-heading{
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 30px;
+}
+.safety-drives-paragraph{
+  font-size: 13px;
+  text-align: justify;
+  margin-left: 30px;
+}
+.duo-getcab-section{
+  margin-top: 100px;
+
+}
+.duo-getcab{
+  font-size: 30px;
+  font-weight: bold;
+
+}
+.duo-1{
+  font-size: 20px;
+  font-weight: bold;
+}
+.bhavish-para{
+  font-size: 13px;
+  text-align: justify;
+}
+.duo-getcab-section2{
+  margin-top: 30px;
+}
+/* Getcab Banner css code Ends here */
+
+/* Getcab Footer Section css code Ends here */
+.footer{
+  margin-top: 50px;
+  background-color: #000;
+  /* height: 590px; */
+  padding-bottom: 20px;
+}
+.top-visited-cities{
+  color: #fff;
+  margin-top: 30px;
+}
+.outstation-routes{
+  color: #fff;
+  margin-top: 20px;
+}
+ul li{
+  font-size: 12px;
+  color: #fff;
+}
+.social-link{
+  color: #fff;
+  font-size:14px;
+}
+.fa-facebook{
+  color: #324d82;
+  font-size: 30px;
+  margin-left: 100px;
+}
+.fa-twitter{
+  color: #03a9f4;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.fa-instagram{
+  color: #a71d8f;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.fa-youtube-play{
+  color: #f61c0d;
+  font-size: 30px;
+  margin-left: 10px;
+
+}
+.footer-menu{
+  display: block;
+  text-align: right;
+  margin-bottom: 10px;
+}
+.copyright{
+  text-align: right;
+  display: block;
+}
+@media screen and (max-width:577px){
+  .footer{
+    height: auto;
+  }
+}
+@media screen and (max-width:992px){
+  .footer{
+    height: auto;
+  }
+}
+/* @media screen and (max-width:1200px){
+  .footer{
+    height: 580px;
+  }
+} */
+/* Getcab Footer Section css code Ends here */
+/* Small Devices, Tablets */
+@media only screen and (max-width : 1000px) {
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+}

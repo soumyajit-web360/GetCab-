@@ -1,0 +1,815 @@
+/* GetCab Header Part CSS starts here */
+.header{
+  background-color: #000000;
+  padding: 5px;
+}
+.header-container{
+  width: 1170px;
+}
+.fa-home{
+  color: #ddab15;
+  font-size: 15px;
+}
+.home{
+  color: #ddab15;
+  font-size: 11px;
+  margin-left: 5px;
+
+}
+.fa-phone{
+  color: #ddab15;
+  font-size: 15px;
+
+}
+.phone{
+  color: #ddab15;
+  font-size: 11px;
+  text-align: center;
+  margin-left: 5px;
+}
+.fa-envelope-o{
+  color: #ddab15;
+  font-size: 15px;
+}
+.envelope{
+  color: #ddab15;
+  font-size: 11px;
+  margin-left: 5px;
+  text-align: center;
+  margin-left: 5px;
+}
+/* GetCab Header Part CSS ends here */
+
+/* Getcab navigation menu css code starts here */
+.navbar ul li{
+  padding: 0 10px;
+  display: inline-block;
+}
+.navbar ul li a{
+  color: #000;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Open Sans',
+}
+.navbar ul li a:hover{
+  background-color: #ffc61a;
+  border-radius: 2px;
+  color: #000;
+}
+.glyphicon{
+  background-color: black;
+}
+.logo{
+  width: 70px;
+}
+.navbar-toggler-icon{
+  /* background-color: black; */
+}
+/* Getcab navigation menu css code Ends here */
+
+/* Getcab Banner css code Starts here */
+.banner-title{
+  color:#ffc61a;
+  font-family:'Open Sans';
+  font-size:2vw;
+  word-spacing: 10px;
+  padding: 20px;
+  text-align: center;
+  margin-top: 100px;
+}
+.banner-title-2{
+  text-align: center;
+  font-size: 5vw;
+  color: #fff;
+  word-spacing: 10px;
+}
+.banner{
+  width: 100%;
+  height: 620px;
+  /* background-color: #000; */
+  background-size: cover;
+}
+input[type="text"]{
+  border-radius: 5px;
+  width: 170px;
+  height: 30px;
+  border: 0;
+  outline: 0;
+  background-image: url('location.png');
+  background-position: 5px 5px;
+  background-repeat: no-repeat;
+  padding: 10px;
+  background-color: #fff;
+
+}
+input[type="text"]{
+  border-radius: 5px;
+  width: 170px;
+  height: 30px;
+  border: 0;
+  outline: 0;
+  padding: 10px;
+  background-color: #fff;
+}
+input[type="date"]{
+  border: 0;
+  outline: 0;
+  border-radius: 5px;
+  width: 170px;
+  height: 30px;
+  background-color: #fff;
+  padding: 10px;
+}
+.car-select{
+  border: 0;
+  outline: 0;
+  border-radius: 5px;
+  width: 170px;
+  height: 30px;
+}
+
+input[type="tel"]{
+  border: 0;
+  outline: 0;
+  width: 170px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 10px;
+  position: relative;
+}
+
+.agreement{
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  font-size: 1vw;
+}
+.button{
+  display: block;
+  margin: auto;
+  width: 150px;
+  margin-top: 40px;
+  background-color: #ffc61a;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+@media screen and (max-width: 767px){
+  .banner
+    height: auto;
+  }
+  input[type="text"]{
+    display: block;
+    width: 100%;
+  }
+  input[type="text"]{
+    display: block;
+    width: 100%;
+  }
+  input[type="date"]{
+    display: block;
+    width: 100%;
+  }
+  .car-select{
+    display: block;
+    width: 100%;
+  }
+  input[type="tel"]{
+    display: block;
+    width: 100%;
+  }
+}
+@media screen and (max-width:1000px){
+  .agreement{
+    font-size: 1.7vw;
+  }
+}
+/* Getcab Banner css code Ends here */
+
+/* Getcab About Us css code Ends here */
+.aboutus{
+  margin-top: 100px;
+}
+.welcome{
+  font-size: 15px;
+  color:#ffc61a;
+  word-spacing: 10px;
+}
+.booking{
+  color: #000;
+  font-size: 40px;
+  font-weight: bold;
+  word-spacing: 10px;
+}
+.aboutus-description{
+  font-size: 12.5px;
+  text-align:left;
+
+}
+.aboutus-btn{
+  background-color: #ffc61a;
+  color: #000;
+  padding: 10px 15px;
+  display: inline-block;
+  margin-top: 50px;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: bold;
+
+}
+.aboutus-btn:hover{
+  color: #000;
+}
+/* Getcab About Us css code Ends here */
+
+/* Getcab Offer css code Ends here */
+.offer-part{
+  height:550px;
+  padding-bottom: 20px;
+  margin-top: 100px;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+@media screen and (max-width:577px){
+  .offer-part{
+    height:auto;
+  }
+  .card-item-1{
+    margin-top: 20px;
+  }
+  .card-item-2{
+    margin-top: 20px;
+  }
+  .card-item-3{
+    margin-top: 20px;
+  }
+  .card-item-4{
+    margin-top: 20px;
+  }
+}
+@media screen and (max-width:767px){
+  .offer-part{
+    height:auto;
+  }
+}
+@media screen and (max-width:991px){
+  .offer-part{
+    height:auto;
+  }
+}
+.offer-heading{
+  color:#ffc61a;
+  font-size: 15px;
+  word-spacing: 10px;
+  padding: 30px;
+  text-align: center;
+
+}
+.getcab-service{
+  font-size: 15px;
+}
+.services{
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  word-spacing: 10px;
+}
+.offer-des{
+  color: #fff;
+  width: 600px;
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+}
+.card-item-1{
+  border:0;
+  background-color:transparent;
+  width:250px;
+   height:250px;
+}
+.card-item-2{
+  border:0;
+  background-color:transparent;
+  width:250px;
+   height:250px;
+}
+.card-item-3{
+  border:0;
+  background-color:transparent;
+  width:250px;
+   height:250px;
+}
+.card-item-4{
+  border:0;
+  background-color:transparent;
+  width:250px;
+   height:250px;
+}
+
+/* Getcab Offer css code Ends here */
+
+/* Getcab See Our Tariffs css code Starts here */
+.see-our{
+  color: #f4b906;
+}
+.tariffs{
+  color: #000;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+.tariff-service{
+  margin-top: 100px;
+  text-align: center;
+}
+.car-item-1{
+  width: 230px;
+  height: 300px;
+  padding: 14px;
+}
+.standered{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+.card-price-1{
+  font-size: 18px;
+  text-align: center;
+}
+.car-item-1:hover{
+  box-shadow: 0 14px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/* @media screen and (max-width:577px){
+  .car-item-1{
+    box-shadow: 0;
+  }
+}
+@media screen and (max-width:767px){
+  .rate-our-app-section{
+    height:auto;
+  }
+}
+@media screen and (max-width:991px){
+  .rate-our-app-section{
+    height:auto;
+  }
+} */
+.price-btn{
+  background-color: #ffc61a;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.car-item-2{
+  width: 230px;
+  height: 300px;
+  padding: 14px;
+}
+.standered{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+.card-price-1{
+  font-size: 18px;
+  text-align: center;
+}
+.car-item-2:hover{
+  box-shadow: 0 14px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.price-btn{
+  background-color: #ffc61a;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.car-item-3{
+  width: 230px;
+  height: 300px;
+  padding: 14px;
+}
+.standered{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+.card-price-1{
+  font-size: 18px;
+  text-align: center;
+}
+.car-item-3:hover{
+  box-shadow: 0 14px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.price-btn{
+  background-color: #ffc61a;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.car-item-4{
+  width: 230px;
+  height: 300px;
+  padding: 14px;
+}
+.standered{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+.card-price-1{
+  font-size: 18px;
+  text-align: center;
+}
+.car-item-4:hover{
+  box-shadow: 0 14px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.price-btn{
+  background-color: #ffc61a;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+/* Getcab See Our Tariffs css code Ends here */
+
+/* Getcab See Our Occationally CAR SERVICES css code Starts here */
+.our-occationally-car-services{
+  margin-top: 100px;
+}
+.our-occationally{
+  color: #f4b906;
+  text-align: center;
+}
+.car-services{
+  color: #000;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 40px;
+  word-spacing: 10px;
+}
+.car-service-description{
+  width: 480px;
+  text-align: center;
+  margin: auto;
+}
+.city-taxi{
+  width: 300px;
+  height: auto;
+  border: 0;
+  margin-top: 40px;
+
+}
+.city-taxi:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.service-1{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+.service-1-description{
+  font-size: 13px;
+  text-align: justify;
+}
+.service-2{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+.service-2-description{
+  font-size: 13px;
+  text-align: justify;
+}
+.service-3{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+.service-3-description{
+  font-size: 13px;
+  text-align: justify;
+}
+/* Getcab See Our Occationally CAR SERVICES css code Ends here */
+
+/* Getcab Rate our app css code Ends here */
+.rate-our-app-section{
+  height:500px;
+  overflow:visible;
+  margin-top: 100px;
+  padding-bottom: 30px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media screen and (max-width:577px){
+  .rate-our-app-section{
+    height:auto;
+  }
+}
+@media screen and (max-width:767px){
+  .rate-our-app-section{
+    height:auto;
+  }
+}
+@media screen and (max-width:991px){
+  .rate-our-app-section{
+    height:auto;
+  }
+}
+.get-more-benifit{
+  color: #f4b906;
+  font-family: 'open sans';
+  font-size: 18px;
+  margin: 30px;
+  text-align: center;
+}
+.rate-one-trip{
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+.benifit-1{
+  width: 300px;
+  background-color: transparent;
+  border: 0;
+  color: #fff;
+  margin-top: 50px;
+  text-align: center;
+}
+.benifit-2{
+  width: 300px;
+  background-color: transparent;
+  border: 0;
+  color: #fff;
+  margin-top: 50px;
+  text-align: center;
+}
+.benifit-3{
+  width: 300px;
+  background-color: transparent;
+  border: 0;
+  color: #fff;
+  margin-top: 50px;
+  text-align: center;
+}
+.rate-app-btn{
+  background-color: #ffc61a;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 10px;
+  font-weight: bold;
+  display: block;
+  margin: auto;
+  width: 170px;
+  margin-top: 50px;
+  text-align: center;
+}
+/* Getcab Rate our app css code Ends here */
+
+/* Getcab Driver Sestion css code Ends here */
+.driver-section{
+  margin-top: 100px;
+}
+.driver{
+  color: #ffc61a;
+  font-size: 19px;
+  font-weight: bold;
+}
+.driver-heading{
+  color: #000;
+  font-weight: bold;
+  font-size: 30px;
+}
+.driver-description{
+  color: #000;
+  width: 100%;
+  font-size: 13px;
+}
+.driver-button{
+  background-color: #ffc61a;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 30px;
+  font-size: 13px;
+  display: inline-block;
+  margin-left: 30px;
+}
+
+@media screen and (max-width:900px){
+  .driver-car-image{
+    display: none;
+  }
+}
+/* Getcab Driver Sestion css code Ends here */
+
+/* Getcab Testimonials Section css code Ends here */
+.testimonials-section{
+  margin-top: 100px;
+  height: 550px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top center;
+  overflow-x: auto;
+}
+@media screen and (max-width:577px){
+  .testimonials-section{
+    width: 100%;
+    height:auto;
+    background-attachment: scroll;
+  }
+  .testimonials-box{
+    width: 100%;
+    height: auto;
+    display: block;
+
+  }
+}
+@media screen and (max-width:767px){
+  .testimonials-section{
+    width: 100%;
+    height:auto;
+    background-attachment: scroll;
+  }
+  .testimonials-box{
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+@media screen and (max-width:991px){
+  .testimonials-section{
+    width: 100%;
+    height:auto;
+    background-attachment: scroll;
+  }
+  .testimonials-box{
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+.happy-client{
+  color: #ffc61a;
+  font-size: 19px;
+  text-align: center;
+  padding-top: 40px;
+}
+.testimonials{
+  color: #fff;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+}
+
+@media screen and (max-width:577px){
+  .testimonials-box{
+    display: block;
+    width: 100%;
+  }
+}
+.testimonials-box{
+  background-color: #000;
+  width: 650px;
+  height: 300px;
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 100px;
+  position: relative;
+  padding: 20px;
+}
+
+.test-person{
+  position: absolute;
+  top: -45px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 100px;
+}
+.date-post{
+  font-size: 12px;
+  color: #fff;
+  width: 300px;
+  margin-top: 100px;
+  display: block;
+  position: absolute;
+  right: -80px;
+  top: 1px;
+}
+.testimonial-description{
+  font-size: 11px;
+  color: #fff;
+  text-align: center;
+  width: 500px;
+  margin-top: 130px;
+  margin-left: 50px;
+
+}
+.quotation{
+  font-size: 17px;
+  color: #f28a00;
+}
+/* Getcab Testimonials Section css code Ends here */
+
+/* Getcab Footer Section css code Ends here */
+.footer{
+  background-color: #000;
+  height: 600px;
+  padding-bottom: 20px;
+}
+.top-visited-cities{
+  color: #fff;
+  margin-top: 30px;
+}
+.outstation-routes{
+  color: #fff;
+  margin-top: 20px;
+}
+ul li{
+  font-size: 12px;
+  color: #fff;
+}
+.social-link{
+  color: #fff;
+  font-size:14px;
+}
+.fa-facebook{
+  color: #324d82;
+  font-size: 30px;
+  margin-left: 100px;
+}
+.fa-twitter{
+  color: #03a9f4;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.fa-instagram{
+  color: #a71d8f;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.fa-youtube-play{
+  color: #f61c0d;
+  font-size: 30px;
+  margin-left: 10px;
+
+}
+.footer-menu{
+  display: block;
+  text-align: right;
+  margin-bottom: 10px;
+}
+.copyright{
+  text-align: right;
+  display: block;
+}
+@media screen and (max-width:577px){
+  .footer{
+    height: auto;
+  }
+}
+@media screen and (max-width:992px){
+  .footer{
+    height: auto;
+  }
+}
+@media screen and (max-width:1200px){
+  .footer{
+    height: 580px;
+  }
+}
+/* Getcab Footer Section css code Ends here */
+/* Small Devices, Tablets */
+@media only screen and (max-width : 1000px) {
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+}

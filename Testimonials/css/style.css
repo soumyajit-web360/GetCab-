@@ -1,0 +1,433 @@
+/* GetCab Header Part CSS starts here */
+.header{
+  background-color: #000000;
+  padding: 5px;
+}
+.header-container{
+  width: 1170px;
+}
+.fa-home{
+  color: #ddab15;
+  font-size: 15px;
+}
+.home{
+  color: #ddab15;
+  font-size: 11px;
+  margin-left: 5px;
+
+}
+.fa-phone{
+  color: #ddab15;
+  font-size: 15px;
+
+}
+.phone{
+  color: #ddab15;
+  font-size: 11px;
+  text-align: center;
+  margin-left: 5px;
+}
+.fa-envelope-o{
+  color: #ddab15;
+  font-size: 15px;
+}
+.envelope{
+  color: #ddab15;
+  font-size: 11px;
+  margin-left: 5px;
+  text-align: center;
+  margin-left: 5px;
+}
+/* GetCab Header Part CSS ends here */
+/* Getcab navigation menu css code starts here */
+.navbar ul li{
+  padding: 0 10px;
+  display: inline;
+}
+.navbar ul li a{
+  color: #000;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Open Sans',
+}
+.navbar ul li a:hover{
+  background-color: #ffc61a;
+  border-radius: 2px;
+  color: #000;
+}
+.glyphicon{
+  background-color: black;
+}
+.logo{
+  width: 70px;
+}
+.navbar-toggler-icon{
+  /* background-color: black; */
+}
+/* Getcab navigation menu css code Ends here */
+
+/* Getcab testimonials-banner css code Ends here */
+.testimonials-banner{
+  height: 350px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  overflow: hidden;
+}
+.testimonials-box{
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.testimonials{
+  text-align: center;
+  margin-top: 100px;
+  color: #ffc61a;
+  font-size: 17px;
+}
+.testimonials-heading{
+  font-size: 35px;
+  text-align: center;
+  color: #fff;
+}
+.testimonials-cards{
+  margin-top: 100px;
+}
+.testimonials-box{
+  width: 300px;
+  height:350px;
+  border: 2px solid #000;
+  padding: 20px;
+   position: relative;
+  border-radius: 10px;
+
+}
+.testimonials-person-img{
+  position: absolute;
+  top: -73px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.testimonials-person-name{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+.testimonials-date-of-posting{
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 100px;
+  display: inline-block;
+  margin-top: 30px;
+}
+.testimonials-feedback{
+  font-size: 11px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+.testimonials-cards{
+  margin-top: 100px;
+}
+.testimonials-box1{
+  width: 300px;
+  height:300px;
+  border: 2px solid #000;
+  padding: 20px;
+   position: relative;
+  border-radius: 10px;
+
+}
+.testimonials-person-img{
+  position: absolute;
+  top: -73px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.testimonials-person-name{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+.testimonials-date-of-posting{
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 100px;
+  display: inline-block;
+  margin-top: 30px;
+}
+.testimonials-feedback{
+  font-size: 11px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+.testimonials-cards{
+  margin-top: 100px;
+}
+.testimonials-box2{
+  width: 300px;
+  height:350px;
+  border: 2px solid #000;
+  padding: 20px;
+   position: relative;
+  border-radius: 10px;
+
+}
+.testimonials-person-img{
+  position: absolute;
+  top: -73px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.testimonials-person-name{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+.testimonials-date-of-posting{
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 100px;
+  display: inline-block;
+  margin-top: 30px;
+}
+.testimonials-feedback{
+  font-size: 11px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+
+.testimonials-cards{
+  margin-top: 100px;
+}
+.testimonials-box3{
+  width: 300px;
+  height:350px;
+  border: 2px solid #000;
+  padding: 20px;
+   position: relative;
+  border-radius: 10px;
+
+}
+.testimonials-person-img{
+  position: absolute;
+  top: -73px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.testimonials-person-name{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+.testimonials-date-of-posting{
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 100px;
+  display: inline-block;
+  margin-top: 30px;
+}
+.testimonials-feedback{
+  font-size: 11px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+.testimonials-cards{
+  margin-top: 100px;
+}
+.testimonials-box4{
+  width: 300px;
+  height:300px;
+  border: 2px solid #000;
+  padding: 20px;
+   position: relative;
+  border-radius: 10px;
+
+}
+.testimonials-person-img{
+  position: absolute;
+  top: -73px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.testimonials-person-name{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+.testimonials-date-of-posting{
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 100px;
+  display: inline-block;
+  margin-top: 30px;
+}
+.testimonials-feedback{
+  font-size: 11px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+.testimonials-cards{
+  margin-top: 100px;
+}
+.testimonials-box5{
+  width: 300px;
+  height:350px;
+  border: 2px solid #000;
+  padding: 20px;
+   position: relative;
+  border-radius: 10px;
+
+}
+.testimonials-person-img{
+  position: absolute;
+  top: -73px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.testimonials-person-name{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+.testimonials-date-of-posting{
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 100px;
+  display: inline-block;
+  margin-top: 30px;
+}
+.testimonials-feedback{
+  font-size: 11px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+@media screen and (max-width: 1000px){
+  .testimonials-box1{
+    height:350px;
+  }
+  .testimonials-box4{
+    height:350px;
+  }
+}
+/* Getcab testimonials-banner css code Ends here */
+
+/* Getcab Footer Section css code Ends here */
+.footer{
+  background-color: #000;
+  /* height: 590px; */
+  padding-bottom: 20px;
+  margin-top:50px;
+}
+.top-visited-cities{
+  color: #fff;
+  margin-top: 30px;
+}
+.outstation-routes{
+  color: #fff;
+  margin-top: 20px;
+}
+ul li{
+  font-size: 12px;
+  color: #fff;
+}
+.social-link{
+  color: #fff;
+  font-size:14px;
+}
+.fa-facebook{
+  color: #324d82;
+  font-size: 30px;
+  margin-left: 100px;
+}
+.fa-twitter{
+  color: #03a9f4;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.fa-instagram{
+  color: #a71d8f;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.fa-youtube-play{
+  color: #f61c0d;
+  font-size: 30px;
+  margin-left: 10px;
+
+}
+.footer-menu{
+  display: block;
+  text-align: right;
+  margin-bottom: 10px;
+}
+.copyright{
+  text-align: right;
+  display: block;
+}
+@media screen and (max-width:577px){
+  .footer{
+    height: auto;
+  }
+}
+@media screen and (max-width:992px){
+  .footer{
+    height: auto;
+  }
+}
+@media screen and (max-width:1200px){
+  .footer{
+    height: auto;
+  }
+}
+/* Getcab Footer Section css code Ends here */
+/* Small Devices, Tablets */
+@media only screen and (max-width : 1000px) {
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+}
